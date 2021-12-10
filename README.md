@@ -8,7 +8,7 @@ Script _[keep-green.pyw](keep-green.pyw)_ keeps the MS-Teams status in green for
     - **Python3.x** should also work
 2. Install necessary package
     - install package **pyautogui** with command `pip install pyautogui` in shell
-    - if using Python3.x `pip3 install pyautogui`
+    - if using Python3.x try command `pip3 install pyautogui`
 3. Clone files
     - download the script _[keep-green.pyw](keep-green.pyw)_
     - Or clone repository to receive updates
