@@ -13,7 +13,7 @@ Script which keeps MS Teams status green always
     - Download complete repository
     - Save at your preferred location on your computer
 4. Run script
-    - Run `mouseScript.pyw` file with: 
+    - Run `keep-green.pyw` file with: 
       - open file with `pythonw.exe` _[pythonw.exe will run python scripts in background process]_
       - or run in shell with `pythonw <UR_LOCAL_PATH_TO_FILE>/mouseScript.pyw`
 5. _[optional]_ Autostart 
