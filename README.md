@@ -1,5 +1,5 @@
 # always green
-The script [keep-green.pyw](keep-green.pyw) which keeps MS Teams status in green forever
+Script _[keep-green.pyw](keep-green.pyw)_ keeps the MS-Teams status in green forever
 
 ## How to set up
 1. Install python
@@ -10,9 +10,9 @@ The script [keep-green.pyw](keep-green.pyw) which keeps MS Teams status in green
     - install package **pyautogui** with command `pip install pyautogui` in shell
     - if using Python3.x `pip3 install pyautogui`
 3. Clone files
-    - download [keep-green.pyw](keep-green.pyw)
+    - download the script _[keep-green.pyw](keep-green.pyw)_
     - Or clone repository to receive updates
-    - Save at your preferred location on your computer
+    - Save at your preferred location on file system
 4. Run script
     - Run `keep-green.pyw` file with: 
       - open file with `pythonw.exe` _[pythonw.exe will run python scripts in background process]_
