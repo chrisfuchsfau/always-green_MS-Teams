@@ -21,4 +21,4 @@ Script which keeps MS Teams status green always
    - Set standard program for **.pyw** files with pythonw.exe _[located in your python installation folder]_
    
 
-
+[a relative link](README.md)
