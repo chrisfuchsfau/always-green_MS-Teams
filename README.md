@@ -1,5 +1,5 @@
 # always green
-Script _[keep-green.pyw](keep-green.pyw)_ keeps the MS-Teams status in green forever
+Script _[keep-green.pyw](keep-green.pyw)_ that keeps the MS-Teams status in green forever
 
 ## How to set up
 1. Install python
