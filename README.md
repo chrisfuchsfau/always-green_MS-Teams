@@ -1,4 +1,4 @@
-# always green
+# always green - python
 Script which keeps MS Teams status green always
 
 ## How to set up
