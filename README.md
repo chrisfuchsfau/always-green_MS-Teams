@@ -13,6 +13,7 @@ There are 2 options to run the script:
     - Save at your preferred location on your computer
 2. Run script
     - Run `keep-green.exe` file by double-click
+    - In case your firewall is blocking the script, add a exception to firewall
 3. _[optional]_ Autostart 
     - Link the script in autostart folder to launch script with system start
 
