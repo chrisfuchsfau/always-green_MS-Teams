@@ -3,11 +3,11 @@ Script which keeps MS Teams status green always
 
 ## How to set up
 There are 2 options to run the script:
-- run the EXE (*exe) _- no python environment necessary_
+- run the exe (*exe) _- no python environment necessary_
 - run the python script (*.pyw) directly _- lean_
 
-# a) run script in EXE
-1. Download EXE script
+## a) run script in exe
+1. Download exe script
     - Download `keep-green.exe`
     - Save at your preferred location on your computer
 2. Run script
@@ -15,7 +15,7 @@ There are 2 options to run the script:
 3. _[optional]_ Autostart 
     - Link the script in autostart folder to launch script with system start
 
-# b) run script in python
+## b) run script in python
 1. Install python
     - download a version from official website and install python _[local admin rights needed]_
     - works with **Python2.7.x**
