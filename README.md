@@ -4,8 +4,8 @@ Script which keeps MS Teams status green always
 
 ## How to set up
 There are 2 options to run the script:
-- run the exe (*exe) _- no python environment necessary_
-- run the python script (*.pyw) directly _- lean_
+- Run the exe (*exe) _- no python environment necessary_
+- Run the python script (*.pyw) directly _- lean_
 
 ## a) run script in exe
 1. Download exe script
