@@ -1,4 +1,5 @@
 # always green
+
 Script which keeps MS Teams status green always
 
 ## How to set up
@@ -29,10 +30,7 @@ There are 2 options to run the script:
 4. Run script
     - Run `keep-green.pyw` file with: 
       - open file with `pythonw.exe` _[pythonw.exe will run python scripts in background process]_
-      - or run in shell with `pythonw <UR_LOCAL_PATH_TO_FILE>/keep-green.pyw`
+      - Or run in shell with `pythonw <UR_LOCAL_PATH_TO_FILE>/keep-green.pyw`
 5. _[optional]_ Autostart 
    - Link the script in autostart folder to launch script with system start
    - Set standard program for **.pyw** files with pythonw.exe _[located in your python installation folder]_
-   
-
-
